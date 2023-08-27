@@ -21,6 +21,5 @@ The accuracy of the model on the MNIST dataset is 98.5%. This means that the mod
 
 
 #Author
-This project was created by Bard.
+This project was created by PANNAGA PS and team
 
-I hope this helps!
